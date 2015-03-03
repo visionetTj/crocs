@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://111.161.13.130:8080/shark-appcollections/static/file/upload/temp/IPA/Meeting-V1.0.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://111.161.13.130:8080/shark-appcollections/static/file/upload/temp/Icon/c8a53411-de5e-42b0-bf01-df9558698842.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>cn.ibm.com.meeting</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>工作助手</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
