@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://111.161.13.130:8080/shark-appcollections/static/file/upload/temp/IPA/SlothSecondProj-V1.0.ipa</string>
+					<string>http://180.166.66.226:8080/shark-appcollections/static/file/upload/temp/IPA/SlothSecondProj-V1.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://111.161.13.130:8080/shark-appcollections/static/file/upload/temp/Icon/7bdd0a65-c778-4a5a-81ce-df04f14f7575.png</string>
+					<string>http://180.166.66.226:8080/shark-appcollections/static/file/upload/temp/Icon/7bdd0a65-c778-4a5a-81ce-df04f14f7575.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
